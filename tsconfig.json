@@ -3,8 +3,8 @@
     "outDir": "dist",
 
     "incremental": true,
-    "target": "es6",
-    "module": "commonjs",
+    "target": "esnext",
+    "module": "nodenext",
     "strict": true,
     "esModuleInterop": true,
     "skipLibCheck": true,
